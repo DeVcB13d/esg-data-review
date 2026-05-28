@@ -4,3 +4,7 @@ django-cors-headers
 pdfplumber
 google-genai
 pandas
+gunicorn
+dj-database-url
+psycopg2-binary
+whitenoise
